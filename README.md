@@ -160,5 +160,5 @@ Reach out to me:
 
 > "Explore, learn, and disrupt—ethically."
 
-![Matrix Code]([[https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif](https://jasonalexanderchase.github.io/portfoliohome/assets/images/logo-mix-10.svg)](https://jasonalexanderchase.github.io/portfoliohome/assets/images/logo-mix-10.svg)
+![Matrix Code](https://jasonalexanderchase.github.io/portfoliohome/assets/images/logo-mix-10.svg)
 
